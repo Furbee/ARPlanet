@@ -5,6 +5,9 @@
 ## Build generated
 build/
 DerivedData/
+iOS/
+Temp/
+ARPlanet/Library/ShaderCache/
 
 ## Various settings
 *.pbxuser
