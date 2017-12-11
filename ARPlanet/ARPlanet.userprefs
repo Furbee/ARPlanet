@@ -1,8 +1,8 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/PerlinNoise.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Noise.shader">
     <Files>
-      <File FileName="Assets/PerlinNoise.cs" Line="35" Column="3" />
+      <File FileName="Assets/Noise.shader" Line="31" Column="3" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
